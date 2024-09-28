@@ -4,11 +4,11 @@
       "key": "dr_ 素白白",
       "name": "素白影视",
       "type": 3,
-      "api": "https://raw.gitmirror.com/yilishawk/js1/master/lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/yilishawk/js1/master/素白白.js"
+      "ext": "https://raw.gitmirror.com/yilishawk/js/master/素白白.js"
     },
             {
       "key": "csp_XBPQ_农民影视",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/yilishawk/js1/master/XBPQ/nnys.json"
+      "ext": "https://raw.gitmirror.com/yilishawk/js/master/XBPQ/nnys.json"
     },
 
                              {
@@ -29,7 +29,7 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "ext":"https://raw.gitmirror.com/yilishawk/js1/master/XBPQ/360采集.json"
+      "ext":"https://raw.gitmirror.com/yilishawk/js/master/XBPQ/360采集.json"
     },
            {
       "key": "csp_XBPQ_黑狐影视",
@@ -39,7 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/yilishawk/js1/master/XBPQ/黑狐影视.json"
+      "ext": "https://raw.gitmirror.com/yilishawk/js/master/XBPQ/黑狐影视.json"
     },
                              {
       "key": "csp_XBPQ_全看影视",
@@ -49,7 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/yilishawk/js1/master/XBPQ/全看影视"
+      "ext": "https://raw.gitmirror.com/yilishawk/js/master/XBPQ/全看影视"
     },
            {
       "key": "csp_XBPQ_电影先生",
@@ -59,7 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/yilishawk/js1/master/XBPQ/电影先生.json"
+      "ext": "https://raw.gitmirror.com/yilishawk/js/master/XBPQ/电影先生.json"
     }
  ],
   "lives": [
