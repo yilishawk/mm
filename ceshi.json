@@ -22,14 +22,13 @@
     },
 
                              {
-      "key": "csp_XBPQ_360采集",
-      "name": "360采集",
+      "key": "csp_XBPQ_x",
+      "name": "x",
       "type": 3,
       "api": "csp_XBPQ",
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "ext":"https://raw.gitmirror.com/yilishawk/js/master/XBPQ/360采集.json"
+      "ext":"https://raw.gitmirror.com/yilishawk/mm/main/xi.json"
     },
            {
       "key": "csp_XBPQ_黑狐影视",
