@@ -2,7 +2,7 @@
   "sites": [
                        {
       "key": "dr_ sg",
-      "name": "sigu影视",
+      "name": "sigu影视js",
       "type": 3,
       "api": "https://raw.gitmirror.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -20,7 +20,15 @@
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/yilishawk/js/master/XBPQ/%E6%80%9D%E5%8F%A4%E5%BD%B1%E8%A7%86.json"
     },
-
+                             {
+      "key": "csp_XBPQ_NK",
+      "name": "NK",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext":"https://raw.gitmirror.com/yilishawk/mm/main/NK.json"
+    },
                              {
       "key": "csp_XBPQ_x",
       "name": "x",
