@@ -1,7 +1,7 @@
 {
     "作者":"凯哥",
     "站名":"耐看点播",
-"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36#referer$https://nkvlog.com/#sec-fetch-dest$iframe",
+"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36#referer$https://nkvlog.com/#sec-fetch-dest$iframe#cookie$showBtn=true; mx_style=white; PHPSESSID=4et3rb28bgf0qgrub9f4lkfi9j; mac_history_mxpro=%5B%7B%22vod_name%22%3A%22%E7%AA%81%E8%BF%9B%E5%A4%B9%E9%87%91%E5%B1%B1%22%2C%22vod_url%22%3A%22https%3A%2F%2Fnkvlog.com%2Fplay%2F1-1-230360.html%22%2C%22vod_part%22%3A%22HD%E5%9B%BD%E8%AF%AD%22%7D%2C%7B%22vod_name%22%3A%22%E6%88%91%E6%9C%AC%E5%8D%83%E9%87%91%22%2C%22vod_url%22%3A%22https%3A%2F%2Fnkvlog.com%2Fplay%2F2-1-223169.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E6%9A%97%E5%A4%9C%E4%B8%8E%E9%BB%8E%E6%98%8E%22%2C%22vod_url%22%3A%22https%3A%2F%2Fnkvlog.com%2Fplay%2F2-1-222980.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D; guard=e7b8de4d5bs8172792599163",
     "主页url":"https://nkvlog.com/",
     "二次截取":"<div class=\"module-items module-poster-items-base&&id=\"page\">",
     "数组":"<a&&no-referrer",
