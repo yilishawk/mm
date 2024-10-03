@@ -1,7 +1,7 @@
 {
     "作者":"凯哥",
     "站名":"耐看点播",
-"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36#cookie$showBtn=true; mx_style=white; mac_history_mxpro=%5B%7B%22vod_name%22%3A%22%E6%9A%97%E5%A4%9C%E4%B8%8E%E9%BB%8E%E6%98%8E%22%2C%22vod_url%22%3A%22https%3A%2F%2Fnkvlog.com%2Fplay%2F2-1-222980.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D; guard=5a3db2b1msFw172792528920",
+"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36#referer$https://nkvlog.com/#sec-fetch-dest$iframe",
     "主页url":"https://nkvlog.com/",
     "二次截取":"<div class=\"module-items module-poster-items-base&&id=\"page\">",
     "数组":"<a&&no-referrer",
@@ -34,7 +34,7 @@
     "过滤词":"hjx.m3u8zy.top#url=#op.m3u8zy.fun#51.la#cnzz.com#baidu.com#bilibili.com",
     "跳转播放链接数组": "<div class=\"player-box-main\">&&</div>[替换:nkzy1>>https://op.xn--it-if7c19g5s4bps5c.com/player/ez.php?code=nkdyw&if=1&url=#anfun2>>https://op.xn--it-if7c19g5s4bps5c.com/player/ez.php?code=nkdyw&if=1&url=#iframe>>https://op.xn--it-if7c19g5s4bps5c.com/player/ez.php?code=nkdyw&if=1&url=#ccsm3u8>>https://op.xn--it-if7c19g5s4bps5c.com/player/ez.php?code=nkdyw&if=1&url=]",
     "跳转播放链接": "from\":\"&&\"+url\":\"&&\"",
-    "二次跳转播放链接": "https://op.xn--it-if7c19g5s4bps5c.com/player/+location.href = '&&'",
+    //"二次跳转播放链接": "https://op.xn--it-if7c19g5s4bps5c.com/player/+location.href = '&&'",
     //"播放请求头":"User-Agent$Mozilla/5.0 (Linux；； Android 13；； 23054RA19C Build/TP1A.220624.014；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36#Origin$www.nkvod.com#Referer$www.nkvod.com",
     "倒序":"0",
  "筛选":{
