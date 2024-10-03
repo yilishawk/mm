@@ -1,5 +1,16 @@
 {
   "sites": [
+	                        {
+      "key": "dr_ sg",
+      "name": "77影视js",
+      "type": 3,
+      "api": "https://raw.gitmirror.com/yilishawk/js/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/mimang/js/-/raw/main/77.js"
+    },
+
                        {
       "key": "dr_ sg",
       "name": "sigu影视js",
