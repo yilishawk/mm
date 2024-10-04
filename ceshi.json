@@ -1,5 +1,14 @@
 {
   "sites": [
+	                               {
+      "key": "csp_XBPQ_bp",
+      "name": "bp",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/mm/main/baopian.json"
+    },
 	                        {
       "key": "dr_ sg",
       "name": "77影视js",
