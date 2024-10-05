@@ -1,13 +1,13 @@
 {
   "sites": [
 	                               {
-      "key": "csp_XBPQ_bp",
-      "name": "bp",
+      "key": "csp_XBPQ_ikv6",
+      "name": "ikv6",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/mm/main/baopian.json"
+      "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/ikv6.json"
     },
 	                        {
       "key": "dr_爱优影视",
