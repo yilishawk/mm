@@ -10,14 +10,14 @@
       "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/mm/main/baopian.json"
     },
 	                        {
-      "key": "dr_bp",
-      "name": "bp影视js",
+      "key": "dr_爱优影视",
+      "name": "爱优影视js",
       "type": 3,
       "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/drpy/%E5%AE%9D%E7%89%87%E5%BD%B1%E8%A7%86.js"
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/drpy/爱优影视.js"
     },
 
                        {
