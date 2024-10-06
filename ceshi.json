@@ -10,14 +10,14 @@
       "ext":"https://git.acwing.com/mimang/js/-/raw/main/kanmeiju.json"
     },
 	                        {
-      "key": "dr_爱优影视",
-      "name": "爱优影视js",
+      "key": "dr_keke",
+      "name": "kekejs",
       "type": 3,
       "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/drpy/爱优影视.js"
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/drpy/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.js"
     },
 
                        {
