@@ -1,5 +1,6 @@
 {
   "sites": [
+	  {"key":"黑木","name":"modu","api":"https://www.mdzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 	  	                        {
       "key": "dr_永乐",
       "name": "永乐js",
