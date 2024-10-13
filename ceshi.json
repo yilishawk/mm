@@ -1,5 +1,17 @@
 {
   "sites": [
+	        {
+      "key": "xinghe",
+      "name": "🌈软件 | 星河",
+      "type": 1,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://154.21.201.190:666/tvbox/lib/星河.php",
+      "playUrl": "json:http://154.21.201.190:666/tvbox/json/xinghe.php?url=",
+      "categories": [
+              ]
+    },
 	  {"key":"黑木","name":"modu","api":"https://www.mdzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 	  	                        {
       "key": "dr_永乐",
