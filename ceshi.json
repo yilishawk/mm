@@ -1,5 +1,6 @@
 {
   "sites": [
+	  {"key":"黑木耳","name":"黑木耳","api":"https://api.yikanapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1},
 	        {
       "key": "xinghe",
       "name": "🌈软件 | 星河",
